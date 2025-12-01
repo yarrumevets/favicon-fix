@@ -1,0 +1,13 @@
+{
+  "name": "favicon-fix",
+  "author": "yarrumevets contact@yarrumevets.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yarrumevets/favicon-fix.git"
+  },
+  "homepage": "https://yarrumevets.com/favicon-fix",
+  "description": "Express middleware that serves a simple red favicon",
+  "license": "MIT"
+}
